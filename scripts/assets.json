@@ -1,0 +1,93 @@
+{
+  "the-gioi": {
+    "cover": "/assets/covers/the-gioi.webp",
+    "width": 906,
+    "height": 1135,
+    "accent": "#307090",
+    "samplePdf": "/assets/samples/the-gioi.pdf"
+  },
+  "kinh-te-hoc": {
+    "cover": "/assets/covers/kinh-te-hoc.webp",
+    "width": 729,
+    "height": 1136,
+    "accent": "#606f25",
+    "samplePdf": "/assets/samples/kinh-te-hoc.pdf"
+  },
+  "khao-co-hoc": {
+    "cover": "/assets/covers/khao-co-hoc.webp",
+    "width": 649,
+    "height": 1163,
+    "accent": "#49648b",
+    "samplePdf": "/assets/samples/khao-co-hoc.pdf"
+  },
+  "tam-ly-hoc": {
+    "cover": "/assets/covers/tam-ly-hoc.webp",
+    "width": 672,
+    "height": 1163,
+    "accent": "#285979",
+    "samplePdf": "/assets/samples/tam-ly-hoc.pdf"
+  },
+  "khoa-hoc": {
+    "cover": "/assets/covers/khoa-hoc.webp",
+    "width": 729,
+    "height": 1136,
+    "accent": "#7a6732",
+    "samplePdf": "/assets/samples/khoa-hoc.pdf"
+  },
+  "triet-hoc": {
+    "cover": "/assets/covers/triet-hoc.webp",
+    "width": 730,
+    "height": 1128,
+    "accent": "#087578",
+    "samplePdf": "/assets/samples/triet-hoc.pdf"
+  },
+  "hoa-ky": {
+    "cover": "/assets/covers/hoa-ky.webp",
+    "width": 682,
+    "height": 1162,
+    "accent": "#a44942",
+    "samplePdf": "/assets/samples/hoa-ky.pdf"
+  },
+  "ton-giao": {
+    "cover": "/assets/covers/ton-giao.webp",
+    "width": 734,
+    "height": 1133,
+    "accent": "#9b553a",
+    "samplePdf": null
+  },
+  "am-nhac": {
+    "cover": "/assets/covers/am-nhac.webp",
+    "width": 642,
+    "height": 1160,
+    "accent": "#a24144",
+    "samplePdf": "/assets/samples/am-nhac.pdf"
+  },
+  "ngon-ngu": {
+    "cover": "/assets/covers/ngon-ngu.webp",
+    "width": 737,
+    "height": 1133,
+    "accent": "#147294",
+    "samplePdf": null
+  },
+  "van-chuong": {
+    "cover": "/assets/covers/van-chuong.webp",
+    "width": 717,
+    "height": 1163,
+    "accent": "#6e6a47",
+    "samplePdf": "/assets/samples/van-chuong.pdf"
+  },
+  "toan-hoc": {
+    "cover": "/assets/covers/toan-hoc.webp",
+    "width": 600,
+    "height": 969,
+    "accent": "#974c72",
+    "samplePdf": "/assets/samples/toan-hoc.pdf"
+  },
+  "art": {
+    "cover": "/assets/covers/art.webp",
+    "width": 651,
+    "height": 1000,
+    "accent": "#b52d24",
+    "samplePdf": null
+  }
+}

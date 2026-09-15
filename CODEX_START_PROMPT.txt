@@ -1,0 +1,5 @@
+Read the root `AGENTS.md` and all files it references under `codex-pack/`.
+Treat the Blueprint as pre-approved.
+Execute the project autonomously from SCAN through BUILD, browser QA, REFINE and DONE.
+Do not stop for intermediate approval unless you encounter a Level-3 blocker.
+At the end, return the final Completion Report, screenshot paths and final Git commit hash.

@@ -1,0 +1,42 @@
+[
+  {
+    "pdf": "public/assets/samples/toan-hoc.pdf",
+    "firstPageRender": true
+  },
+  {
+    "pdf": "public/assets/samples/kinh-te-hoc.pdf",
+    "firstPageRender": true
+  },
+  {
+    "pdf": "public/assets/samples/hoa-ky.pdf",
+    "firstPageRender": true
+  },
+  {
+    "pdf": "public/assets/samples/the-gioi.pdf",
+    "firstPageRender": true
+  },
+  {
+    "pdf": "public/assets/samples/tam-ly-hoc.pdf",
+    "firstPageRender": true
+  },
+  {
+    "pdf": "public/assets/samples/khao-co-hoc.pdf",
+    "firstPageRender": true
+  },
+  {
+    "pdf": "public/assets/samples/am-nhac.pdf",
+    "firstPageRender": true
+  },
+  {
+    "pdf": "public/assets/samples/van-chuong.pdf",
+    "firstPageRender": true
+  },
+  {
+    "pdf": "public/assets/samples/khoa-hoc.pdf",
+    "firstPageRender": true
+  },
+  {
+    "pdf": "public/assets/samples/triet-hoc.pdf",
+    "firstPageRender": true
+  }
+]

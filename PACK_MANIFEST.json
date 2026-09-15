@@ -1,0 +1,9 @@
+{
+  "name": "luoc-su-nhanam-codex-pack",
+  "agent": "OpenAI Codex",
+  "mode": "autonomous-one-shot",
+  "root_instruction": "AGENTS.md",
+  "start_prompt": "CODEX_START_PROMPT.txt",
+  "published_titles": 12,
+  "coming_soon_titles": 1
+}

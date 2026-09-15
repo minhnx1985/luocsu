@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://nhanam.vn/luoc-su-the-gioi-nha-nam",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-the-gioi-nha-nam",
+    "title": "LƯỢC SỬ THẾ GIỚI"
+  },
+  {
+    "url": "https://nhanam.vn/luoc-su-kinh-te-hoc-nha-nam",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-kinh-te-hoc-nha-nam",
+    "title": "LƯỢC SỬ KINH TẾ HỌC"
+  },
+  {
+    "url": "https://nhanam.vn/luoc-su-khao-co-hoc",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-khao-co-hoc",
+    "title": "LƯỢC SỬ KHẢO CỔ HỌC"
+  },
+  {
+    "url": "https://nhanam.vn/luoc-su-tam-ly-hoc",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-tam-ly-hoc",
+    "title": "LƯỢC SỬ TÂM LÝ HỌC"
+  },
+  {
+    "url": "https://nhanam.vn/luoc-su-khoa-hoc-01",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-khoa-hoc-01",
+    "title": "LƯỢC SỬ KHOA HỌC"
+  },
+  {
+    "url": "https://nhanam.vn/luoc-su-triet-hoc-nha-nam",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-triet-hoc-nha-nam",
+    "title": "LƯỢC SỬ TRIẾT HỌC"
+  },
+  {
+    "url": "https://nhanam.vn/luoc-su-hoa-ky-nha-nam",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-hoa-ky-nha-nam",
+    "title": "LƯỢC SỬ HOA KỲ"
+  },
+  {
+    "url": "https://nhanam.vn/luoc-su-ton-giao-1",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-ton-giao-1",
+    "title": "LƯỢC SỬ TÔN GIÁO"
+  },
+  {
+    "url": "https://nhanam.vn/luoc-su-am-nhac",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-am-nhac",
+    "title": "LƯỢC SỬ ÂM NHẠC"
+  },
+  {
+    "url": "https://nhanam.vn/cau-chuyen-ngon-ngu-nha-nam",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/cau-chuyen-ngon-ngu-nha-nam",
+    "title": "CÂU CHUYỆN NGÔN NGỮ"
+  },
+  {
+    "url": "https://nhanam.vn/luoc-su-van-chuong",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-van-chuong",
+    "title": "LƯỢC SỬ VĂN CHƯƠNG"
+  },
+  {
+    "url": "https://nhanam.vn/luoc-su-toan-hoc",
+    "status": 200,
+    "finalUrl": "https://nhanam.vn/luoc-su-toan-hoc",
+    "title": "LƯỢC SỬ TOÁN HỌC"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "the-gioi",
+    "accent": "#307090",
+    "contrast": "4.84"
+  },
+  {
+    "slug": "kinh-te-hoc",
+    "accent": "#606f25",
+    "contrast": "4.90"
+  },
+  {
+    "slug": "khao-co-hoc",
+    "accent": "#49648b",
+    "contrast": "5.35"
+  },
+  {
+    "slug": "tam-ly-hoc",
+    "accent": "#285979",
+    "contrast": "6.66"
+  },
+  {
+    "slug": "khoa-hoc",
+    "accent": "#7a6732",
+    "contrast": "4.88"
+  },
+  {
+    "slug": "triet-hoc",
+    "accent": "#087578",
+    "contrast": "4.87"
+  },
+  {
+    "slug": "hoa-ky",
+    "accent": "#a44942",
+    "contrast": "5.16"
+  },
+  {
+    "slug": "ton-giao",
+    "accent": "#9b553a",
+    "contrast": "4.96"
+  },
+  {
+    "slug": "am-nhac",
+    "accent": "#a24144",
+    "contrast": "5.52"
+  },
+  {
+    "slug": "ngon-ngu",
+    "accent": "#147294",
+    "contrast": "4.82"
+  },
+  {
+    "slug": "van-chuong",
+    "accent": "#6e6a47",
+    "contrast": "4.88"
+  },
+  {
+    "slug": "toan-hoc",
+    "accent": "#974c72",
+    "contrast": "5.18"
+  },
+  {
+    "slug": "art",
+    "accent": "#b52d24",
+    "contrast": "5.53"
+  }
+]
