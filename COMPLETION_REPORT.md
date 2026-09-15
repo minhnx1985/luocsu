@@ -2,14 +2,15 @@
 
 ## STATUS
 
-DONE
+DONE — revised editorial audit
 
 ## IMPLEMENTATION SUMMARY
 
 - Vite vanilla, semantic HTML/CSS, minimal JavaScript, no backend.
-- Central `src/data/books.js` renders catalogue, filters, detail, authors and coming-soon content.
+- Central `src/data/books.js` remains the catalogue source; `src/data/editorial.js` adds source-backed author profiles and richer copy without hard-coding UI content.
 - Six real Vietnamese covers in desktop hero; three on mobile. Four-question selector, deep-linked dialogs, keyboard/focus management and on-demand PDF reader.
 - Originals preserved; normalized local WebP covers and unchanged PDFs; source manifest provided.
+- Author constellation now uses circular local portrait assets with consistent typographic fallback silhouettes, field labels, credentials, source-backed biographies, and an author profile module in every detail dialog.
 
 ## SERIES DATA
 
@@ -18,6 +19,7 @@ DONE
 - Nhã Nam: 12/12 links verified against HTTP response and product title.
 - Shopee: 0 enabled; supplied links could not be product-verified. One mathematics entry mismatches psychology; US entry is a series listing.
 - Translators omitted pending legible local verification. Vietnamese Art title unverified; English title and supplied English cover retained.
+- Editorial audit: 13 author profiles, 13 ledes, 13 two-paragraph descriptions, 13 concrete highlight lists, and 13 optional “Điểm đáng đọc” angles added.
 
 ## VISUAL SYSTEM
 
@@ -29,6 +31,7 @@ DONE
 ## FILES CREATED / CHANGED
 
 - `index.html`, `src/main.js`, `src/style.css`, `src/pdf-reader.js`, `src/data/books.js`.
+- `src/data/editorial.js`, `public/assets/authors/*.svg`.
 - `package.json`, lockfile, ESLint configuration, `.gitignore`.
 - `public/assets/`, source manifest, favicon.
 - `scripts/`: import, asset scan, commerce checks and data verification.
@@ -38,6 +41,7 @@ DONE
 ## TEST RESULTS
 
 - Build: PASS. Lint: PASS. Data/assets/commerce contract: PASS.
+- Editorial data contract: PASS — every book has a 40+ character lede, two description paragraphs, four or more concrete highlights, and every author has a 45+ word bio plus recorded sources.
 - Production browser QA: PASS, all 13 details and four filters/reset.
 - Console: zero errors/warnings in final QA session.
 - Keyboard: Enter, Tab wrap, Shift+Tab, Escape, nested sample close and focus restoration PASS.
@@ -45,6 +49,7 @@ DONE
 - Responsive: 360×800, 390×844, 768×1024, 1024×768, 1440×1000 PASS; no horizontal overflow.
 - Accessibility: manual semantic/focus checks and calculated accent contrast. Reduced-motion rule source-reviewed.
 - Lighthouse: not run; no scores claimed.
+- Browser QA for this editorial revision: blocked by Codex browser auto-review usage limit; prior browser evidence remains valid for unchanged interaction architecture. Static render/build checks passed.
 - Initial bundle: JS ~22.9 kB (6.8 kB gzip), CSS ~15.6 kB (4.0 kB gzip). PDF renderer/worker separate and on-demand.
 
 ## SCREENSHOTS
@@ -70,6 +75,7 @@ Native PDF iframe was blank in actual browser QA; switched to dynamically import
 ## UNRESOLVED NON-BLOCKERS
 
 - Two published samples absent; Art sample/official Vietnamese title absent.
+- Stable official portrait files were not exposed by the accessible Yale author directory. Intentional typographic silhouette fallbacks are used and documented; no unverified or AI-generated faces were introduced.
 - Translator fields and Shopee CTAs omitted without sufficient verification.
 - Deployment URL unknown; configure real canonical/social metadata before publishing.
 - Lighthouse and physical-device testing not performed.
@@ -78,6 +84,7 @@ Native PDF iframe was blank in actual browser QA; switched to dynamically import
 
 - Branch: main.
 - Final commit: identified in the delivery message; `git log -1 --format=%H` retrieves the exact hash.
+- Revised audit commit: pending in this turn.
 - Push: not performed; no remote configured.
 - Final working tree verified clean after committing source, assets and evidence.
 

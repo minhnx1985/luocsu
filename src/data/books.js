@@ -54,7 +54,7 @@ export const books = [
     "accent": "#606f25",
     "samplePdf": "/assets/samples/kinh-te-hoc.pdf",
     "nhanamUrl": "https://nhanam.vn/luoc-su-kinh-te-hoc-nha-nam",
-    "shopeeUrl": null,
+    "shopeeUrl": "https://shopee.vn/S%C3%A1ch-L%C6%B0%E1%BB%A3c-S%E1%BB%AD-Kinh-T%E1%BA%BF-H%E1%BB%8Dc-Nh%C3%A3-Nam-i.431679329.21351822033?extraParams=%7B%22display_model_id%22%3A136868641192%2C%22model_selection_logic%22%3A3%7D",
     "sourceNotes": [
       "Approved content deck; local cover visually matched.",
       "Nhà Nam product title and HTTP 200 verified 2026-09-15.",
@@ -85,7 +85,7 @@ export const books = [
     "accent": "#49648b",
     "samplePdf": "/assets/samples/khao-co-hoc.pdf",
     "nhanamUrl": "https://nhanam.vn/luoc-su-khao-co-hoc",
-    "shopeeUrl": null,
+    "shopeeUrl": "https://shopee.vn/S%C3%A1ch-L%C6%B0%E1%BB%A3c-s%E1%BB%AD-kh%E1%BA%A3o-c%E1%BB%95-h%E1%BB%8Dc-(A-Little-History-of-Archaeology)-(Brian-Fagan)-(Nh%C3%A3-Nam-HN-Kho)-i.441515460.29672933515?extraParams=%7B%22display_model_id%22%3A223683516416%2C%22model_selection_logic%22%3A3%7D",
     "sourceNotes": [
       "Approved content deck; local cover visually matched.",
       "Nhà Nam product title and HTTP 200 verified 2026-09-15.",
@@ -117,7 +117,7 @@ export const books = [
     "accent": "#285979",
     "samplePdf": "/assets/samples/tam-ly-hoc.pdf",
     "nhanamUrl": "https://nhanam.vn/luoc-su-tam-ly-hoc",
-    "shopeeUrl": null,
+    "shopeeUrl": "https://shopee.vn/S%C3%A1ch-L%C6%B0%E1%BB%A3c-s%E1%BB%AD-t%C3%A2m-l%C3%BD-h%E1%BB%8Dc-(Nicky-Hayes)-(Nh%C3%A3-Nam)-i.400034360.29433771799?extraParams=%7B%22display_model_id%22%3A234117836850%2C%22model_selection_logic%22%3A3%7D",
     "sourceNotes": [
       "Approved content deck; local cover visually matched.",
       "Nhà Nam product title and HTTP 200 verified 2026-09-15.",
@@ -180,7 +180,7 @@ export const books = [
     "accent": "#087578",
     "samplePdf": "/assets/samples/triet-hoc.pdf",
     "nhanamUrl": "https://nhanam.vn/luoc-su-triet-hoc-nha-nam",
-    "shopeeUrl": null,
+    "shopeeUrl": "https://shopee.vn/S%C3%A1ch-L%C6%B0%E1%BB%A3c-s%E1%BB%AD-Tri%E1%BA%BFt-h%E1%BB%8Dc-(Nh%C3%A3-Nam-HCM)-i.404602141.7684938766?extraParams=%7B%22display_model_id%22%3A74694369647%2C%22model_selection_logic%22%3A3%7D",
     "sourceNotes": [
       "Approved content deck; local cover visually matched.",
       "Nhà Nam product title and HTTP 200 verified 2026-09-15.",
@@ -273,7 +273,7 @@ export const books = [
     "accent": "#a24144",
     "samplePdf": "/assets/samples/am-nhac.pdf",
     "nhanamUrl": "https://nhanam.vn/luoc-su-am-nhac",
-    "shopeeUrl": null,
+    "shopeeUrl": "https://shopee.vn/S%C3%A1ch-L%C6%B0%E1%BB%A3c-s%E1%BB%AD-%C3%A2m-nh%E1%BA%A1c-(Nh%C3%A3-Nam-HCM)-i.404602141.27421407401?extraParams=%7B%22display_model_id%22%3A79501602135%2C%22model_selection_logic%22%3A3%7D",
     "sourceNotes": [
       "Approved content deck; local cover visually matched.",
       "Nhà Nam product title and HTTP 200 verified 2026-09-15.",
@@ -335,7 +335,7 @@ export const books = [
     "accent": "#6e6a47",
     "samplePdf": "/assets/samples/van-chuong.pdf",
     "nhanamUrl": "https://nhanam.vn/luoc-su-van-chuong",
-    "shopeeUrl": null,
+    "shopeeUrl": "https://shopee.vn/S%C3%A1ch-L%C6%B0%E1%BB%A3c-s%E1%BB%AD-v%C4%83n-ch%C6%B0%C6%A1ng-(Nh%C3%A3-Nam-HCM)-i.404602141.57716881793?extraParams=%7B%22display_model_id%22%3A421434127985%2C%22model_selection_logic%22%3A3%7D",
     "sourceNotes": [
       "Approved content deck; local cover visually matched.",
       "Nhà Nam product title and HTTP 200 verified 2026-09-15.",

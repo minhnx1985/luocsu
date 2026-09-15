@@ -27,3 +27,15 @@ Shopee source: `shopee link .rtf`. Mathematics entry mismatches psychology; US e
 Image optimization: original twelve JPEGs approximately 2.0 MB; WebP copies approximately 1.0 MB at quality 88 with full original pixel dimensions. No AI-generated imagery. Text accent hues were darkened slightly where needed to meet 4.5:1 contrast.
 
 PDF native embed failed in browser QA. Final production uses on-demand PDF.js plus direct-open fallback. All ten PDFs passed opening-page render and browser reader QA.
+
+## Editorial audit — 2026-09-15
+
+Author profiles are centralized in `src/data/editorial.js`. Six supplied author portraits are now normalized into `public/assets/authors/`: E. H. Gombrich, Niall Kishtainy, Brian Fagan, Nicky Hayes, William Bynum and Nigel Warburton. The remaining seven profiles retain an intentional typographic silhouette fallback because the accessible Nhã Nam/Yale pages exposed author names and bios but no stable portrait asset URL. No AI-generated, Pinterest or Goodreads portrait was substituted.
+
+Nhã Nam author-page checks: the official series page includes the author bios for Gombrich, Kishtainy, Fagan, Hayes, Bynum and Warburton; Brian Fagan also has a dedicated author page (`https://nhanam.vn/brian-fagan`). These pages were recorded as provenance, while the local supplied files remain the production image sources.
+
+Author bio source URLs are recorded per author in `src/data/editorial.js`; Yale University Press is the default series source, with institutional and official author links used where available. The fallback keeps the circular portrait treatment without making an unsupported identity claim.
+
+Book copy sources are the approved local assets and the twelve verified Nhã Nam product pages recorded in `qa/commerce-links.json`; descriptions were rewritten into `lede`, `descriptionParagraphs`, `highlights`, and optional `whyRead` fields. The English Art scope is grounded in its Yale book page. No Yale prose is copied verbatim.
+
+Social share image: `public/assets/social/luoc-su-collage.jpg` is a deterministic collage made from eight supplied Vietnamese cover assets, sized 1200×630 for Open Graph/Twitter previews. No substitute or generated artwork was used.
