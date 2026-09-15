@@ -38,4 +38,4 @@ Author bio source URLs are recorded per author in `src/data/editorial.js`; Yale 
 
 Book copy sources are the approved local assets and the twelve verified Nhã Nam product pages recorded in `qa/commerce-links.json`; descriptions were rewritten into `lede`, `descriptionParagraphs`, `highlights`, and optional `whyRead` fields. The English Art scope is grounded in its Yale book page. No Yale prose is copied verbatim.
 
-Social share image: `public/assets/social/luoc-su-collage.jpg` is a deterministic collage made from eight supplied Vietnamese cover assets, sized 1200×630 for Open Graph/Twitter previews. No substitute or generated artwork was used.
+Social share image: `public/assets/social/luoc-su-hero.jpg` is a 1200×630 crop of the approved desktop hero composition, preserving the paper background, series title and real Vietnamese cover artwork for Open Graph/Twitter previews. The earlier cover collage remains at `public/assets/social/luoc-su-collage.jpg` as an alternate asset. No substitute or generated artwork was used.
